@@ -1,1 +1,1 @@
-# comp4211_pa1
+# HKUST COMP4211 Programming Assignment 1
